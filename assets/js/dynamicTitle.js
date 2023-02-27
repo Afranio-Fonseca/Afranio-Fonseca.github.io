@@ -3,11 +3,6 @@ window.onload = function () {
   const pageTitle = document.title
   const attentionMessage = 'Come back'
 
-  document.addEventListener('visibilitychange', function (e) {
-    const isPageActive = !document.hidden
-    toggle(isPageActive)
-  })
-
   function toggle(isPageActive) {
     if (isPageActive) {
       document.title = pageTitle
