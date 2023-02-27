@@ -373,7 +373,7 @@ ul {
 }
 
 .social-icon svg {
-  margin-top: 30px;
+  margin-top: 0px;
 }
 
 .menu-content {
@@ -529,7 +529,7 @@ ul {
     transform: translateY(calc(90px + 4em));
   }
   .social-icon svg {
-    margin-top: 20px;
+    margin-top: 0px;
   }
 }
 
