@@ -6,27 +6,19 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
     {
+        title: "Word Quiz Live",
+        cardImage: "assets/images/project-page/WQL.jpeg",
+        description: "Live Stream gaming channel for word games.",
+        tagimg: "https://www.tiktok.com/@wordquizlive/live",
+        Previewlink: "https://www.tiktok.com/@wordquizlive/live",
+        Githublink: "",
+    },
+    {
         title: "Ultra Foodmess 2",
         cardImage: "assets/images/project-page/UF2.jpg",
         description: "A Party Game with 2D physics and a food theme.",
         tagimg: "https://store.steampowered.com/app/2392000/Ultra_Foodmess_2/",
         Previewlink: https://store.steampowered.com/app/2392000/Ultra_Foodmess_2/",
-        Githublink: "",
-    },
-    {
-        title: "Gen.io",
-        cardImage: "assets/images/project-page/GenDotIO.jpg",
-        description: "An online third-person shooter game with rock paper scissors elements to weapons published for Android. The game is no longer available.",
-        tagimg: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
-        Previewlink: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
-        Githublink: "",
-    },
-    {
-        title: "Genio Quiz",
-        cardImage: "assets/images/project-page/GenioQuiz.png",
-        description: "Series of puzzle games with twists on how to answer the questions presented.",
-        tagimg: "https://play.google.com/store/apps/developer?id=Andr%C3%A9+Birnfeld&hl=pt_BR&gl=US",
-        Previewlink: "https://play.google.com/store/apps/developer?id=Andr%C3%A9+Birnfeld&hl=pt_BR&gl=US",
         Githublink: "",
     },
     {
@@ -46,13 +38,21 @@ const projects = [
         Githublink: "",
     },
     {
-        title: "Word Quiz Live",
-        cardImage: "assets/images/project-page/WQL.jpeg",
-        description: "Live Stream gaming channel for word games.",
-        tagimg: "https://www.tiktok.com/@wordquizlive/live",
-        Previewlink: "https://www.tiktok.com/@wordquizlive/live",
+        title: "Genio Quiz",
+        cardImage: "assets/images/project-page/GenioQuiz.png",
+        description: "Series of puzzle games with twists on how to answer the questions presented.",
+        tagimg: "https://play.google.com/store/apps/developer?id=Andr%C3%A9+Birnfeld&hl=pt_BR&gl=US",
+        Previewlink: "https://play.google.com/store/apps/developer?id=Andr%C3%A9+Birnfeld&hl=pt_BR&gl=US",
         Githublink: "",
     },
+    {
+        title: "Gen.io",
+        cardImage: "assets/images/project-page/GenDotIO.jpg",
+        description: "An online third-person shooter game with rock paper scissors elements to weapons published for Android. The game is no longer available.",
+        tagimg: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
+        Previewlink: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
+        Githublink: "",
+    }
 ];
 
 // function for rendering project cards data
