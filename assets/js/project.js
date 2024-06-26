@@ -18,7 +18,7 @@ const projects = [
         cardImage: "assets/images/project-page/UF2.jpg",
         description: "A Party Game with 2D physics and a food theme.",
         tagimg: "https://store.steampowered.com/app/2392000/Ultra_Foodmess_2/",
-        Previewlink: https://store.steampowered.com/app/2392000/Ultra_Foodmess_2/",
+        Previewlink: "https://store.steampowered.com/app/2392000/Ultra_Foodmess_2/",
         Githublink: "",
     },
     {
