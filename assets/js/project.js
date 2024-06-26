@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
     {
         title: "Word Quiz Live",
-        cardImage: "assets/images/project-page/WQL.jpeg",
+        cardImage: "assets/images/project-page/WQL.png",
         description: "Live Stream gaming channel for word games.",
         tagimg: "https://www.tiktok.com/@wordquizlive/live",
         Previewlink: "https://www.tiktok.com/@wordquizlive/live",
