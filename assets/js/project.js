@@ -52,7 +52,7 @@ const projects = [
         tagimg: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
         Previewlink: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
         Githublink: "",
-    }
+    },
 ];
 
 // function for rendering project cards data
