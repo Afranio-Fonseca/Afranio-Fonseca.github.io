@@ -4,6 +4,13 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
+    {
+        title: "Senior Games Engineer",
+        cardImage: "assets/images/experience-page/HMS.jpg",
+        place: "Half Moon Studios",
+        time: "(Apr, 2023 - Current)",
+        desp: "<li>Developing solutions to connect live stream user inputs into games to enable automated interaction.</li><li>Developing ground-breaking solutions of human-AI collaboration to improve efficiency in the development of game mechanics and content.</li><li>Re-imagining of quiz games' design and content pipeline.</li>",
+    },
   {
     title: "Game Developer/System Analist",
       cardImage: "assets/images/experience-page/painfulSmileLogo.jpg",

@@ -6,11 +6,11 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
     {
-        title: "Afterorder",
-        cardImage: "assets/images/project-page/Afterorder.png",
-        description: "A CCG game set on the cyberpunk world created by Ramon Nunez.",
-        tagimg: "https://www.afterorder.io/",
-        Previewlink: "https://www.afterorder.io/",
+        title: "Ultra Foodmess 2",
+        cardImage: "assets/images/project-page/UF2.jpg",
+        description: "A Party Game with 2D physics and a food theme.",
+        tagimg: "https://store.steampowered.com/app/2392000/Ultra_Foodmess_2/",
+        Previewlink: https://store.steampowered.com/app/2392000/Ultra_Foodmess_2/",
         Githublink: "",
     },
     {
@@ -46,11 +46,11 @@ const projects = [
         Githublink: "",
     },
     {
-        title: "Fantasy Bingo",
-        cardImage: "assets/images/project-page/FantasyBingo.jpg",
-        description: "Bingo and Slots machine game with in-game currency gambling.",
-        tagimg: "https://play.google.com/store/apps/details?id=com.FantasyPlay.FantasyBingo",
-        Previewlink: "https://play.google.com/store/apps/details?id=com.FantasyPlay.FantasyBingo",
+        title: "Word Quiz Live",
+        cardImage: "assets/images/project-page/WQL.jpeg",
+        description: "Live Stream gaming channel for word games.",
+        tagimg: "https://www.tiktok.com/@wordquizlive/live",
+        Previewlink: "https://www.tiktok.com/@wordquizlive/live",
         Githublink: "",
     },
 ];
