@@ -9,8 +9,8 @@ const projects = [
         title: "Ball Guys",
         cardImage: "assets/images/project-page/BallGuys.png",
         description: "An online multiplayer party game which I developed the online multiplayer functionality and the level designing tool.",
-        tagimg: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
-        Previewlink: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
+        tagimg: "https://bit.ly/BallGuys",
+        Previewlink: "https://bit.ly/BallGuys",
         Githublink: "",
     },
     {
