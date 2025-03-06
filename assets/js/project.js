@@ -6,11 +6,19 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
     {
+        title: "Ball Guys",
+        cardImage: "assets/images/project-page/BallGuys.png",
+        description: "An online multiplayer party game which I developed the online multiplayer functionality and the level designing tool.",
+        tagimg: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
+        Previewlink: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
+        Githublink: "",
+    },
+    {
         title: "Word Quiz Live",
         cardImage: "assets/images/project-page/WQL.png",
         description: "Live Stream gaming channel for word games.",
-        tagimg: "https://www.tiktok.com/@wordquizlive/live",
-        Previewlink: "https://www.tiktok.com/@wordquizlive/live",
+        tagimg: "https://www.tiktok.com/@wordquizlive/video/7390040167664323873",
+        Previewlink: "https://www.tiktok.com/@wordquizlive/video/7390040167664323873",
         Githublink: "",
     },
     {
@@ -24,7 +32,7 @@ const projects = [
     {
         title: "IIN",
         cardImage: "assets/images/project-page/IIN.jpg",
-        description: "Platformer puzzle game where you have to movee a box to a destination in each level.",
+        description: "Platformer puzzle game where you have to move a box to a destination in each level.",
         tagimg: "https://store.steampowered.com/app/795110/IIN/",
         Previewlink: "https://store.steampowered.com/app/795110/IIN/",
         Githublink: "",
@@ -43,14 +51,6 @@ const projects = [
         description: "Series of puzzle games with twists on how to answer the questions presented.",
         tagimg: "https://play.google.com/store/apps/developer?id=Andr%C3%A9+Birnfeld&hl=pt_BR&gl=US",
         Previewlink: "https://play.google.com/store/apps/developer?id=Andr%C3%A9+Birnfeld&hl=pt_BR&gl=US",
-        Githublink: "",
-    },
-    {
-        title: "Gen.io",
-        cardImage: "assets/images/project-page/GenDotIO.jpg",
-        description: "An online third-person shooter game with rock paper scissors elements to weapons published for Android. The game is no longer available.",
-        tagimg: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
-        Previewlink: "https://www.youtube.com/watch?v=FA_MU0mTLaM",
         Githublink: "",
     },
 ];

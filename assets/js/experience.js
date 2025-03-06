@@ -9,21 +9,28 @@ const exp = [
         cardImage: "assets/images/experience-page/HMS.jpg",
         place: "Half Moon Studios",
         time: "(Apr, 2023 - Current)",
-        desp: "<li>Developing solutions to connect live stream user inputs into games to enable automated interaction.</li><li>Developing ground-breaking solutions of human-AI collaboration to improve efficiency in the development of game mechanics and content.</li><li>Re-imagining of quiz games' design and content pipeline.</li>",
+        desp: "<li>Designed and implemented a level creator tool, enabling 10+ community members to contribute with custom content, enhancing player engagement.</li>" +
+            "<li>Developed multiplayer solution that allows for rooms of up to 256 players to play and compete with cross-platform between web and mobile users.</li>" +
+            "<li>Introduced solutions of human-AI collaboration to improve efficiency in the development of game mechanics and content.</li>",
     },
   {
     title: "Game Developer/System Analist",
       cardImage: "assets/images/experience-page/painfulSmileLogo.jpg",
     place: "Painful Smile",
-    time: "(Sep, 2020 - Feb, 2023)",
-    desp: "<li>Got a leadership role as a system analyst within 10 months.</li><li>Worked on over 10 game projects for different client demands with several teams.</li><li>Developed communication and leadership skills.</li>",
+      time: "(Sep, 2020 - Feb, 2023)",
+      desp: "<li>Developed game-related tools and scripts to facilitate game development.</li>" +
+          "<li>Earned promotion to leadership role within 10 months, overseeing a team of 8 developers and improving development efficiency.</li>" +
+          "<li>Established specifications and coordinated production with software programmers.</li>" +
+          "<li>Collaborated with upper management to drive strategy and implement new processes.</li>",
   },
     {
         title: "Game Developer",
         cardImage: "assets/images/experience-page/GenioGamesLogo.png",
     place: "Genio Games",
     time: "(Jun, 2017 - Oct, 2018)",
-        desp: "<li>Worked developing new features for the company's main title </li><li>Developed as an experimental online multiplayer game called gen.io which used AWS for hosting and NodeJS for netcode.</li>",
+        desp: "<li>Developed 2D video games for PC and mobile platforms using Unity 3D.</li>" +
+            "<li>Designed and implemented gameplay mechanics and interactive elements for multiple titles that sum up to 15+ million downloads.</li> " +
+            "<li>Developed game-related tools and scripts to facilitate game development.</li>",
   },
 ];
 
